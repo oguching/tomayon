@@ -18,5 +18,6 @@ Accessibility
 Color
 * [http://colorhunt.co/](http://colorhunt.co/)
 
-
+Inspiration
+* [Nikita Prokopov](http://tonsky.me/)  
 More docs soon
