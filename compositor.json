@@ -40,6 +40,10 @@
         {
           "href": "https://github.com/oguching/tomayon",
           "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/oguching/tomayon/about",
+          "text": "About"
         }
       ]
     },
@@ -58,7 +62,10 @@
           "user": "oguching",
           "repo": "tomayon"
         }
-      ]
+      ],
+      "slug": "",
+      "text": "",
+      "links": []
     },
     {
       "component": "article",
