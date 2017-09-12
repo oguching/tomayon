@@ -72,7 +72,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "<h2>Tomayon</h2>\n<p>A Harp boilerplate using my favourite color: Tomato and my favourite CSS tool: Tachyons.</p>\n<p>Color Scheme</p>\n<p>Primary: RGBA(255, 99, 71, 1) (tomato)<br>Secondary: rgb(98, 71, 255)<br>Background: rgb(255, 255, 255)<br>Foreground: rgb(51, 51, 51)  </p>\n<p>Useful links</p>\n<p>Accessibility</p>\n<ul>\n<li><a href=\"http://accessible-colors.com/\">http://accessible-colors.com/</a>  </li>\n<li><a href=\"http://jxnblk.com/colorable\">http://jxnblk.com/colorable</a></li>\n</ul>\n<p>Color</p>\n<ul>\n<li><a href=\"http://colorhunt.co/\">http://colorhunt.co/</a></li>\n</ul>\n<p>Inspiration</p>\n<ul>\n<li><a href=\"http://tonsky.me/\">Nikita Prokopov</a><br>More docs soon</li>\n</ul>\n"
+      "html": "<h2>Tomayon  (WIP)</h2>\n<p>A Harp boilerplate using my favourite color: Tomato and my favourite CSS tool: Tachyons.</p>\n<p>Color Scheme</p>\n<p>Primary: RGBA(255, 99, 71, 1) (tomato)<br>Secondary: rgb(98, 71, 255)<br>Background: rgb(255, 255, 255)<br>Foreground: rgb(51, 51, 51)  </p>\n<p>Useful links</p>\n<p>Accessibility</p>\n<ul>\n<li><a href=\"http://accessible-colors.com/\">http://accessible-colors.com/</a>  </li>\n<li><a href=\"http://jxnblk.com/colorable\">http://jxnblk.com/colorable</a></li>\n</ul>\n<p>Color</p>\n<ul>\n<li><a href=\"http://colorhunt.co/\">http://colorhunt.co/</a></li>\n</ul>\n<p>Inspiration</p>\n<ul>\n<li><a href=\"http://tonsky.me/\">Nikita Prokopov</a><br>More docs soon</li>\n</ul>\n"
     },
     {
       "component": "footer",
